@@ -66,19 +66,19 @@
 }
 
 .register__button {
-    margin-top: 150px;
-    text-align: center;
-}
+    margin: 150px auto 0;
+    border: 0;
 
-.register__button a{
-    text-decoration: none;
+    display: flex;
     text-transform: uppercase;
-    color: #fff;
-
+    
     font-weight: 700;
     font-size: 28px;
-    color: #BDFF00;
+    background-color: #BDFF00;
 
-    background-color: #000;
+    cursor: pointer;
+    
+    color: #000;
     padding: 23px 128px 26px;
 }
+
