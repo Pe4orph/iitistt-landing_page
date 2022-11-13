@@ -1,0 +1,25 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.none {
+    display: none !important;
+}
+
+.body {
+    width: 1920px;
+    margin: 0 auto;
+
+    background-color: #fff;
+    font-family: 'Onest', sans-serif;
+    color: #000;
+}
+
+.container {
+    width: 1400px;
+    margin: 0 auto;
+}

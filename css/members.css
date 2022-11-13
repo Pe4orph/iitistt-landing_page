@@ -1,0 +1,75 @@
+
+.members {
+    margin-top: 400px;
+}
+
+.members__title {
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 54px;
+}
+
+.members__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 440px);
+    grid-template-rows: repeat(3, 200px);
+    
+    column-gap: 40px;
+    row-gap: 50px;
+
+    margin-bottom: 50px;
+}
+
+.members-card {
+    display: flex;
+    background: #F7F7F7;
+    border-radius: 16.7263px;
+    align-items: center;
+    padding: 24px;
+}
+
+.members-card__img {
+    height: 152px;
+    margin-right: 44px;
+    border-radius: 50%;
+}
+
+.members-card-text {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 152px;
+    color: #111111;
+}
+
+.members-card__post {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.1;
+
+    padding-right: 16px;
+
+    margin: 0;
+}
+
+.members-card__name {
+    margin: 0;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.1;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.members-card__year-at-university {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.1;
+}
+
+.ps {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 1.4;
+}

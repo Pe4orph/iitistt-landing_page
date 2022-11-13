@@ -1,0 +1,15 @@
+.structure {
+    margin-top: 350px;
+}
+
+.structure__title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 1.1;
+    margin-bottom: 50px;
+}
+
+.structure__table {
+    margin-left: 180px;
+}

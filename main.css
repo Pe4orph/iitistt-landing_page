@@ -1,0 +1,12 @@
+@import url(./fonts/onest/onest.css);
+/* font-family: 'Onest', sans-serif; */
+
+@import url(./css/header.css);
+@import url(./css/base.css);
+@import url(./css/aboutus.css);
+@import url(./css/goals.css);
+@import url(./css/members.css);
+@import url(./css/tasks.css);
+@import url(./css/structure.css);
+@import url(./css/register.css);
+@import url(./css/footer.css); 

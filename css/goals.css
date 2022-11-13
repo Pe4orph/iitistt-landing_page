@@ -1,0 +1,35 @@
+
+.goals {
+    margin-top: 200px;
+}
+
+.goals__title {
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 1.1;
+    color: #000;
+    margin-bottom: 50px;
+}
+
+/* .goals-list {
+    
+} */
+
+.goals__item {
+    display: flex;
+    align-items: flex-start;
+}
+
+.goals__number {
+    margin-top: 10px;
+    margin-right: 41px;
+}
+
+.goals__text {
+    text-align: left;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 1.4;
+    padding-right: 50px;
+    margin-top: 0;
+}

@@ -1,0 +1,21 @@
+.footer {
+    margin-top: 350px;
+    height: 188px;
+    background-color: #000;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.footer-content {
+    height: 94px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_kosygina-logo{
+    height: 84px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
